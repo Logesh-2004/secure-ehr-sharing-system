@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "334366764790",
+    "project_id": "patientapp-daf71",
+    "storage_bucket": "patientapp-daf71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334366764790:android:455b7041a64895ba5c06d7",
+        "android_client_info": {
+          "package_name": "com.example.patient_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334366764790-m8im438fckd809eou6sean6lbktk7c14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFw_z-JTgoIFOhsRGeQiBNzkWcVgqW0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334366764790-m8im438fckd809eou6sean6lbktk7c14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334366764790:android:68ad3844c23c302a5c06d7",
+        "android_client_info": {
+          "package_name": "com.secureehr.clinician_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334366764790-m8im438fckd809eou6sean6lbktk7c14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFw_z-JTgoIFOhsRGeQiBNzkWcVgqW0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334366764790-m8im438fckd809eou6sean6lbktk7c14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
